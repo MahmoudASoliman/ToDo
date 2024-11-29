@@ -1,16 +1,16 @@
-# todo_app
+# Todo App  
+A simple and efficient task management application built using Flutter. Users can create, update, delete, and organize their daily tasks.  
 
-A new Flutter project.
+## Key Features:  
+- Add, update, and delete tasks.  
+- Mark tasks as completed or pending.  
+- Store tasks locally using **SQLite**.  
+- State management handled by **Cubit**.  
 
-## Getting Started
+## Technologies Used:  
+- **Flutter**: For building the app.  
+- **SQLite**: Local database for task storage.  
+- **Cubit**: Lightweight and efficient state management.  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose:  
+This app is designed to practice working with local databases (SQLite) and managing app state with Cubit.
